@@ -1,0 +1,1 @@
+Program("uptz", ['uptz.c'])
